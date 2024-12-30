@@ -1,5 +1,5 @@
-# NAME:MANIMARAN V
-# REGISTER NO:24008541
+## NAME:MANIMARAN V
+## REGISTER NO:24008541
 # EXP 3:HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
